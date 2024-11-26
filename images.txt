@@ -2,3 +2,8 @@ spring2go/spring-petclinic:1.0.0.RELEASE
 fluent/fluentd-kubernetes-daemonset:v1-debian-elasticsearch
 openjdk:8-jre-alpine
 circleci/openjdk:8u242-jdk
+mysql:5.7
+nacos/nacos-server
+nginx
+redis
+openjdk:8-jre
