@@ -7,3 +7,4 @@ nacos/nacos-server
 nginx
 redis
 openjdk:8-jre
+gcr.io/k8s-minikube/kicbase:v0.0.45
