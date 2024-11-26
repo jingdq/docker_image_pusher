@@ -1,2 +1,3 @@
 spring2go/spring-petclinic:1.0.0.RELEASE
 fluent/fluentd-kubernetes-daemonset:v1-debian-elasticsearch
+openjdk:8-jre-alpine
