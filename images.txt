@@ -11,3 +11,4 @@ gcr.io/k8s-minikube/kicbase:v0.0.45
 grafana/grafana:5.2.4
 prom/prometheus:v2.4.2
 spring2go/spring-petclinic:1.0.1.RELEASE
+kubernetes-dashboard/kubernetes-dashboard
