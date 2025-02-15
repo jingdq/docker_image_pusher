@@ -13,3 +13,4 @@ prom/prometheus:v2.4.2
 spring2go/spring-petclinic:1.0.1.RELEASE
 kubernetes-dashboard/kubernetes-dashboard
 rancher/hyperkube:v1.20.15-rancher2
+openjdk:12-alpine
